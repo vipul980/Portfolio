@@ -86,3 +86,7 @@ p {
 .web {
     text-decoration: underline;
 }
+
+a {
+    color: inherit;
+}
