@@ -8,7 +8,7 @@ height: 900px;
 }
 
 .navbar {
-    
+        
     background-color: transparent;
     height: 50px;
     position: fixed;
@@ -22,19 +22,21 @@ height: 900px;
  font-family: 'Roboto', sans-serif;
  font-size: 35px;
  color: #01a9b4;
- top: 32px;
+ top: 15px;
  text-align: left;
  padding-left: 20px;
  font-family: 'Balsamiq Sans', cursive;
+ background-color: transparent;
  
 }
 
 .nav-menu {
     
     position: fixed;
-    top: 42px; 
+    top: 28px; 
     right: 20px;
     display: flex;
+    background-color: transparent;
 }
 
 
@@ -59,7 +61,7 @@ height: 900px;
     position: relative;
     background-color: transparent;
      text-align: center;
-     top: 200px;
+     top: 250px;
      
     
 }
@@ -67,7 +69,7 @@ height: 900px;
 
 h1 {
       font-family: 'Sacramento', cursive;
-    font-size: 70px;
+    font-size: 85px;
     color: #0e9aa7;
     transition: font-size 0.4s;
 
@@ -81,6 +83,7 @@ p {
     margin-top: -30px;
      font-family: 'Roboto', sans-serif;
     color: #0e9aa7;
+    font-size: 20px;
     
 }
 .web {
@@ -89,4 +92,22 @@ p {
 
 a {
     color: inherit;
+}
+
+.topCloud {
+  position: absolute;
+  top: 150px;
+  right: 100px;
+}
+
+.bottomCloud {
+    position: absolute;
+    top: 500px;
+    left: 100px;
+}
+
+.mountain {
+    position: absolute;
+    bottom: 0px;
+    left: 330px;
 }
