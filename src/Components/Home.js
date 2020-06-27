@@ -10,7 +10,9 @@ function Home() {
  </div>
  <img  className="topCloud" src="images/cloud.png" alt="Top cloud" />
  <img className="bottomCloud" src="images/cloud.png" alt="Bottom cloud" />
+ <div className="img">
  <img className="mountain" src="images/mountain.png" alt="Mountain" />
+ </div>
  </div>
 }
 
