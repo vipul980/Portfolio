@@ -138,21 +138,46 @@ margin: -8px -8px auto -8px;
 background-color: #ddf3f5;
 position: relative;
 top: -100px;
-height: 900px;
+height: 800px;
 
 }
 
 .toggler-Hamburger {
     position: fixed;
     
-    right: 35px;
+    right: 25px;
     top: 30px;
     cursor: pointer;
     color: #01a9b4;
-    font-size: 10px;
+    font-size: 5px;
     display: flex;
 
 }
+
+.navbar {
+        
+    background-color: transparent;
+    height: 50px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    
+}
+
+
+.nav-brand {
+    position: fixed;
+ font-family: 'Roboto', sans-serif;
+ font-size: 20px;
+ color: #01a9b4;
+ top: 15px;
+ text-align: left;
+ padding-left: 15px;
+ font-family: 'Balsamiq Sans', cursive;
+ 
+    
+}
+
 .nav-menu {
     
     position: fixed;
@@ -166,9 +191,11 @@ height: 900px;
 
 h1 {
     font-family: 'Sacramento', cursive;
-    font-size: 85px;
+    font-size: 60px;
     color: #0e9aa7;
+    
     }
+
 
 .img {
     position: absolute;
