@@ -339,6 +339,99 @@ h1 {
     width: 300px;
     
 }
+
+
+.middleContainer { 
+
+    background-color: #f5f5f5;
+    margin: -100px -8px auto -8px;
+    height: 2000px;
+}
+
+.profileImage {
+    
+    padding-top: 85px;
+    text-align: center; 
+}
+
+.mySnap {
+    text-align: center;
+   height: 140px;
+   width: 140px;
+   border-radius: 50%;
+}
+
+
+
+ h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    color: #01a9b4;
+    font-size: 25px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.intro {
+    width: 50%;
+    color: #393e46;
+    text-align: center;
+    margin: auto;
+}
+
+hr {
+    border: dotted #b7efcd 5px;
+    border-bottom: none;
+    width: 8%;
+    margin: 60px auto;
+    
+}
+
+.skills h1 {
+ font-family: 'Balsamiq Sans', cursive;
+text-align: center;
+font-size: 30px;    
+font-weight: normal;
+padding-bottom: 60px;
+}
+
+.skillRow {
+    
+    text-align: left;
+    margin: 65px auto;
+    width: 50%;
+}
+
+.codeImg {
+    float: left;
+    height: 90px;
+    width: 130px;
+    padding-right: 20px;
+}
+
+.skillRow h3 {
+        font-family: 'Roboto', sans-serif;
+
+    color: #01a9b4;
+    padding-bottom: 25px;
+    font-size: 20px;
+    font-weight: normal;
+    
+}
+
+.skillRow p {
+    color: #393e46;
+    line-height: 2;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.panipuriImg {
+    border-radius: 55%;
+    float: right;
+    height: 90px;
+    width: 100px;
+}
 };
 
 
