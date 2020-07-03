@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "./Button";
 
 function About() {
      return <div className="middleContainer">
@@ -9,6 +10,7 @@ function About() {
      </div>
      <h2>Hello.</h2>
      <p className="intro">I am an web developer. I love this profession, I ❤️ coffee and brew my own beers🍺.</p>
+     <a href="/my resume-2.pdf" download><Button /></a>
      </div>
 
      <hr />

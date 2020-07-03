@@ -223,6 +223,21 @@ padding-bottom: 85px;
     width: 100px;
 }
 
+.middle {
+    text-align: center;
+    padding-top: 35px;
+}
+
+button {
+        
+    background-color: transparent;
+    
+    color: #01a9b4;
+    border-radius: 5px;
+    height: 35px;
+    width: 160px;
+}
+
 @media only screen and (max-width: 500px) {
 
 .nav-menu-show {
@@ -431,6 +446,16 @@ padding-bottom: 60px;
     float: right;
     height: 90px;
     width: 100px;
+}
+
+button {
+        
+    background-color: transparent;
+    
+    color: #01a9b4;
+    border-radius: 5px;
+    height: 35px;
+    width: 135px;
 }
 };
 
