@@ -326,6 +326,9 @@ h1 {
     
     }
 
+h1:hover {
+    font-size: 75px;
+}
 
 .topCloud {
   position: absolute;
