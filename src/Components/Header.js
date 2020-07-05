@@ -27,19 +27,19 @@ function Header() {
     </div>
     <div className={prop}>
     <div className="nav-item">
-    <a href="https://www.facebook.com/vipdwayne"><i class="fa fa-facebook-square icon" aria-hidden="true"></i></a>
+    <a href="https://www.facebook.com/vipdwayne"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
     </div>
     <div className="nav-item">
-    <a href="https://www.instagram.com/vipulgupta980/"><i class="fa fa-instagram icon" aria-hidden="true"></i></a>
+    <a href="https://www.instagram.com/vipulgupta980/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
     </div>
     <div className="nav-item">
-    <a href="https://www.linkedin.com/in/vipul-gupta-34b864168/"><i class="fa fa-linkedin-square icon" aria-hidden="true"></i></a>
+    <a href="https://www.linkedin.com/in/vipul-gupta-34b864168/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
     </div>
     <div className="nav-item">
-    <a href="https://twitter.com/Bringit98"><i class="fa fa-twitter-square icon" aria-hidden="true"></i></a>
+    <a href="https://twitter.com/Bringit98"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
     </div>
     <div className="nav-item">
-    <a href="https://github.com/vipul980"><i class="fa fa-github-square icon" aria-hidden="true"></i></a>
+    <a href="https://github.com/vipul980"><i class="fa fa-github-square" aria-hidden="true"></i></a>
     </div>
      </div>
     </nav>
