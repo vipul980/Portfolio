@@ -33,10 +33,11 @@ function Bottom() {
           <h4>vipulgupta9594@gmail.com</h4>
        </div>
     </div>
-     </div>
-       <div className="form">
+    <div className="form">
           <Contact />
        </div>
+     </div>
+       
      </div>
     );
 } 
