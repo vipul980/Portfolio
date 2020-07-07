@@ -13,7 +13,7 @@ function Contact() {
         var char1 = Name.slice(0,1).toUpperCase();
         var remainingChar = Name.slice(1, Name.length).toLowerCase();
 
-         alert("Thankyou for the response" +" "+char1 + remainingChar);
+         alert("Thankyou for the response" +" "+char1 + remainingChar+"!");
          e.preventDefault();
          
      }
