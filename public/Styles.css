@@ -238,6 +238,7 @@ button {
     border-radius: 5px;
     height: 35px;
     width: 160px;
+    cursor: pointer;
 }
 .bottomContainer {
     position: absolute;
