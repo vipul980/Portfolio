@@ -4,7 +4,7 @@ import React from "react";
 
 function Contact() {
 
-
+     const [name, setName] = React.useState("");
     
      function handleChange(e) {
         setName(e.target.value)
@@ -18,6 +18,8 @@ function Contact() {
          
          alert("Thankyou for the response" +" "+char1 + remainingChar+"!");
          
+
+
 
          e.preventDefault();
          
