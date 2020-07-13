@@ -345,6 +345,8 @@ font-weight: normal;
 }
 input, textArea {
     background-color: transparent;
+    font-family: 'Roboto', sans-serif;
+    color: #393e46;
     
     border: none;
     border-bottom: 2px solid;
