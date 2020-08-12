@@ -10,7 +10,7 @@ function About() {
      </div>
      <h2>Hello.</h2>
      <p className="intro">I am an web developer. I love this profession, I ❤️ coffee and brew my own beers🍺.</p>
-     <a href="/Vipul gupta resume.pdf" download><Button /></a>
+     <a href="/Vipul Resume.pdf" download><Button /></a>
      </div>
 
      <hr />
@@ -32,6 +32,8 @@ function About() {
      
      </div>
      </div>
+
+    
      
 
      
