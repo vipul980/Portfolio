@@ -34,7 +34,7 @@ function About() {
      </div>
 
     <div className="projects">
-    <h1>My Projects</h1>
+    <h1>My Projects.</h1>
     <div className="projectRow">
     <img className="secretImg" src="images/Secret.png" alt="Secret-web-app" />
     <h3>Secrets</h3>
@@ -45,13 +45,13 @@ function About() {
      <div className="projectRow">
      <img className="drumkitImg" src="images/Drumkit.png" alt="Drumkit-web-pp" />
      <h3>Drumkit</h3>
-     <p>Designed and Developed an drumkit web application with sound system using React js and UIFX module, It's basically an Drumkit which produces sound whenever the corresponding drum gets clicked or key press</p>
+     <p>Designed and Developed an drumkit web application with sound system using React js and UIFX module, It's basically an Drumkit which produces sound whenever the corresponding drum gets clicked or key press.</p>
      <a href="https://drumkit1998.netlify.app/"><button className="secretButton">Have a look!</button></a>
      </div>    
      
      </div>
 
-     
+
      </div>
      
      
