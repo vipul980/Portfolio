@@ -135,7 +135,7 @@ a {
 
     background-color: #f5f5f5;
     margin: -100px -8px auto -8px;
-    height: 2300px;
+    height: 2600px;
 }
 
 
@@ -194,7 +194,7 @@ padding-bottom: 20px;
     width: 50%;
 }
 
-.codeImg, .secretImg {
+.codeImg, .secretImg, .noteImg {
     float: left;
     height: 90px;
     width: 130px;
@@ -372,7 +372,7 @@ input, textArea {
     background-color: transparent;
     font-family: 'Roboto', sans-serif;
     color: #393e46;
-    
+    outline: none;
     border: none;
     border-bottom: 2px solid;
     border-bottom-color: #01a9b4;
@@ -543,7 +543,7 @@ h1:hover {
 
     background-color: #f5f5f5;
     margin: -100px -8px auto -8px;
-    height: 2600px;
+    height: 3100px;
 }
 
 .profileImage {
@@ -600,7 +600,7 @@ padding-bottom: 60px;
     width: 80%;
 }
 
-.codeImg, .secretImg {
+.codeImg, .secretImg, .noteImg {
     float: left;
     height: 90px;
     width: 130px;
