@@ -30,7 +30,7 @@ function Header() {
     <a href="https://www.facebook.com/vipdwayne"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
     </div>
     <div className="nav-item">
-    <a href="https://www.instagram.com/vipulgupta980/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+    <a href="https://www.instagram.com/vipul_gupta777/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
     </div>
     <div className="nav-item">
     <a href="https://www.linkedin.com/in/vipul-gupta-34b864168/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
